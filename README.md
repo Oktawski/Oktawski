@@ -1,6 +1,7 @@
 
 ### Tech stack: 
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -14,8 +15,8 @@
 - Java (but not as much as some time ago, now I am full time .Net enthusiast)
 
 
-🔭 What am I learning? 
-- React is my go to frontend library. I am able to make fullstack apps with MVC and Blazor, now it's time to learn something serious.
+:book: What am I learning? 
+- React is my go to frontend library. I am able to make fullstack apps with MVC and Blazor, now it's time to learn something serious
 
 
 :magic_wand: What is my biggest power?
