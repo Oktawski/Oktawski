@@ -8,8 +8,18 @@
 
 
 
-🔭 What do I know? I know .Net (WebAPI, EntityFramework, MVC, Blazor), Kotlin (Room, Coroutines, rxJava), Java (but not as much as some time ago, now I am full time .Net enthusiast)
-🔭 What am I learning? React is my go to frontend library. I am able to make fullstack apps with MVC and Blazor, now it's time to learn something serious.
+🔭 What do I know? 
+- .Net (WebAPI, EntityFramework, MVC, Blazor, Authorization, Microsoft Graph API)
+- Kotlin (Room, Coroutines, rxJava)
+- Java (but not as much as some time ago, now I am full time .Net enthusiast)
+
+
+🔭 What am I learning? 
+- React is my go to frontend library. I am able to make fullstack apps with MVC and Blazor, now it's time to learn something serious.
+
+
+:magic_wand: What is my biggest power?
+- I can solve almost any problem with the use of C#. There is no "it can't be done" in my vocabulary
 
 
 I’m currently working on Password Manager app (.Net API + React Frontend) and SmartHome project that consists of Spring Server, Android application communicating with that server and Arduino devices controlled via said server.
