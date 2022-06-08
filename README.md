@@ -11,7 +11,7 @@
 
 
 :keyboard: What do I know? 
-- .Net (RestAPI, EntityFramework, MVC, Blazor, Authorization, Microsoft Graph API, XUnit)
+- .Net (RestAPI, EntityFramework, MVC, Blazor, Authorization, Microsoft Graph API, xUnit)
 - Kotlin (Room, Coroutines, rxJava)
 - Java (Spring, but not as much as some time ago, now I am full time .Net enthusiast)
 
