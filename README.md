@@ -17,11 +17,11 @@
 
 
 :book: What am I learning? 
-- React is my go to frontend library. I am able to make fullstack apps with MVC and Blazor, now it's time to learn something serious
+- React is my go to frontend library that I have to know better but I can still use it to create frontend apps communicating with APIs
 
 
 :magic_wand: What is my biggest power?
-- I can solve almost any problem with the use of C#. There is no "it can't be done" in my vocabulary
+- I am creative and my favourite tool is C#. There is no "it can't be done" in my vocabulary
 
 
 I’m currently working on Password Manager app (.Net API + React Frontend) and SmartHome project that consists of Spring Server, Android application communicating with that server and Arduino devices controlled via said server.
